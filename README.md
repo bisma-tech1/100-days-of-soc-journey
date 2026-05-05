@@ -1,6 +1,5 @@
 # 100-days-of-soc-journey
 
-# Day 2 of 100
 
 Today I learned about SOC (Security Operations Center).
 
